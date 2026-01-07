@@ -1,0 +1,1482 @@
+{
+  "formUrlDefault": "https://forms.office.com/g/JAikrDh0vE",
+  "events": [
+    {
+      "code": "BUELL_2026-01-07_1930_SIX",
+      "date": "2026-01-07",
+      "title": "SIX",
+      "time": "7:30pm",
+      "venue": "BUELL THEATRE",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+    {
+      "code": "BUELL_2026-01-08_1400_SIX",
+      "date": "2026-01-08",
+      "title": "SIX",
+      "time": "2:00pm",
+      "venue": "BUELL THEATRE",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+    {
+      "code": "BUELL_2026-01-08_1930_SIX",
+      "date": "2026-01-08",
+      "title": "SIX",
+      "time": "7:30pm",
+      "venue": "BUELL THEATRE",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+    {
+      "code": "BUELL_2026-01-09_1930_SIX",
+      "date": "2026-01-09",
+      "title": "SIX",
+      "time": "7:30pm",
+      "venue": "BUELL THEATRE",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+    {
+      "code": "BUELL_2026-01-10_1400_SIX",
+      "date": "2026-01-10",
+      "title": "SIX",
+      "time": "2:00pm",
+      "venue": "BUELL THEATRE",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+    {
+      "code": "BUELL_2026-01-10_1930_SIX",
+      "date": "2026-01-10",
+      "title": "SIX",
+      "time": "7:30pm",
+      "venue": "BUELL THEATRE",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+    {
+      "code": "BUELL_2026-01-11_1300_SIX",
+      "date": "2026-01-11",
+      "title": "SIX",
+      "time": "1:00pm",
+      "venue": "BUELL THEATRE",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+    {
+      "code": "BUELL_2026-01-11_1830_SIX",
+      "date": "2026-01-11",
+      "title": "SIX",
+      "time": "6:30pm",
+      "venue": "BUELL THEATRE",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+
+    {
+      "code": "BUELL_2026-01-16_1930_THE_CHOIR_OF_MAN",
+      "date": "2026-01-16",
+      "title": "The Choir of Man",
+      "time": "7:30pm",
+      "venue": "BUELL THEATRE",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+    {
+      "code": "BUELL_2026-01-17_1400_THE_CHOIR_OF_MAN",
+      "date": "2026-01-17",
+      "title": "The Choir of Man",
+      "time": "2:00pm",
+      "venue": "BUELL THEATRE",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+    {
+      "code": "BUELL_2026-01-17_1930_THE_CHOIR_OF_MAN",
+      "date": "2026-01-17",
+      "title": "The Choir of Man",
+      "time": "7:30pm",
+      "venue": "BUELL THEATRE",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+
+    {
+      "code": "BUELL_2026-01-24_1400_THE_SIMON_AND_GARFUNKEL_STORY",
+      "date": "2026-01-24",
+      "title": "The Simon and Garfunkel Story",
+      "time": "2:00pm",
+      "venue": "BUELL THEATRE",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+    {
+      "code": "BUELL_2026-01-24_1930_THE_SIMON_AND_GARFUNKEL_STORY",
+      "date": "2026-01-24",
+      "title": "The Simon and Garfunkel Story",
+      "time": "7:30pm",
+      "venue": "BUELL THEATRE",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+    {
+      "code": "BUELL_2026-01-25_1300_THE_SIMON_AND_GARFUNKEL_STORY",
+      "date": "2026-01-25",
+      "title": "The Simon and Garfunkel Story",
+      "time": "1:00pm",
+      "venue": "BUELL THEATRE",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+
+    {
+      "code": "BUELL_2026-01-31_1900_RICHARD_THOMAS_IN_MARK_TWAIN_TONIGHT",
+      "date": "2026-01-31",
+      "title": "Richard Thomas in Mark Twain Tonight!",
+      "time": "7:00pm",
+      "venue": "BUELL THEATRE",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+
+    {
+      "code": "BUELL_2026-02-04_1930_DIRTY_DANCING_IN_CONCERT",
+      "date": "2026-02-04",
+      "title": "DIRTY DANCING IN CONCERT",
+      "time": "7:30pm",
+      "venue": "BUELL THEATRE",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+
+    {
+      "code": "BUELL_2026-02-11_1930_WATER_FOR_ELEPHANTS",
+      "date": "2026-02-11",
+      "title": "Water for Elephants",
+      "time": "7:30pm",
+      "venue": "BUELL THEATRE",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+    {
+      "code": "BUELL_2026-02-12_1400_WATER_FOR_ELEPHANTS",
+      "date": "2026-02-12",
+      "title": "Water for Elephants",
+      "time": "2:00pm",
+      "venue": "BUELL THEATRE",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+    {
+      "code": "BUELL_2026-02-12_1930_WATER_FOR_ELEPHANTS",
+      "date": "2026-02-12",
+      "title": "Water for Elephants",
+      "time": "7:30pm",
+      "venue": "BUELL THEATRE",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+    {
+      "code": "BUELL_2026-02-13_1930_WATER_FOR_ELEPHANTS",
+      "date": "2026-02-13",
+      "title": "Water for Elephants",
+      "time": "7:30pm",
+      "venue": "BUELL THEATRE",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+    {
+      "code": "BUELL_2026-02-14_1400_WATER_FOR_ELEPHANTS",
+      "date": "2026-02-14",
+      "title": "Water for Elephants",
+      "time": "2:00pm",
+      "venue": "BUELL THEATRE",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+    {
+      "code": "BUELL_2026-02-14_1930_WATER_FOR_ELEPHANTS",
+      "date": "2026-02-14",
+      "title": "Water for Elephants",
+      "time": "7:30pm",
+      "venue": "BUELL THEATRE",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+    {
+      "code": "BUELL_2026-02-15_1300_WATER_FOR_ELEPHANTS",
+      "date": "2026-02-15",
+      "title": "Water for Elephants",
+      "time": "1:00pm",
+      "venue": "BUELL THEATRE",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+    {
+      "code": "BUELL_2026-02-15_1830_WATER_FOR_ELEPHANTS",
+      "date": "2026-02-15",
+      "title": "Water for Elephants",
+      "time": "6:30pm",
+      "venue": "BUELL THEATRE",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+    {
+      "code": "BUELL_2026-02-17_1930_WATER_FOR_ELEPHANTS",
+      "date": "2026-02-17",
+      "title": "Water for Elephants",
+      "time": "7:30pm",
+      "venue": "BUELL THEATRE",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+    {
+      "code": "BUELL_2026-02-18_1930_WATER_FOR_ELEPHANTS",
+      "date": "2026-02-18",
+      "title": "Water for Elephants",
+      "time": "7:30pm",
+      "venue": "BUELL THEATRE",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+    {
+      "code": "BUELL_2026-02-19_1930_WATER_FOR_ELEPHANTS",
+      "date": "2026-02-19",
+      "title": "Water for Elephants",
+      "time": "7:30pm",
+      "venue": "BUELL THEATRE",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+    {
+      "code": "BUELL_2026-02-20_1930_WATER_FOR_ELEPHANTS",
+      "date": "2026-02-20",
+      "title": "Water for Elephants",
+      "time": "7:30pm",
+      "venue": "BUELL THEATRE",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+    {
+      "code": "BUELL_2026-02-21_1400_WATER_FOR_ELEPHANTS",
+      "date": "2026-02-21",
+      "title": "Water for Elephants",
+      "time": "2:00pm",
+      "venue": "BUELL THEATRE",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+    {
+      "code": "BUELL_2026-02-21_1930_WATER_FOR_ELEPHANTS",
+      "date": "2026-02-21",
+      "title": "Water for Elephants",
+      "time": "7:30pm",
+      "venue": "BUELL THEATRE",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+    {
+      "code": "BUELL_2026-02-22_1300_WATER_FOR_ELEPHANTS",
+      "date": "2026-02-22",
+      "title": "Water for Elephants",
+      "time": "1:00pm",
+      "venue": "BUELL THEATRE",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+    {
+      "code": "BUELL_2026-02-22_1800_WATER_FOR_ELEPHANTS",
+      "date": "2026-02-22",
+      "title": "Water for Elephants",
+      "time": "6:00pm",
+      "venue": "BUELL THEATRE",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+
+    {
+      "code": "BUELL_2026-02-27_1930_MEREDITH_WILLSONS_THE_MUSIC_MAN",
+      "date": "2026-02-27",
+      "title": "Meredith Willson’s THE MUSIC MAN",
+      "time": "7:30pm",
+      "venue": "BUELL THEATRE",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+    {
+      "code": "BUELL_2026-02-28_1400_MEREDITH_WILLSONS_THE_MUSIC_MAN",
+      "date": "2026-02-28",
+      "title": "Meredith Willson’s THE MUSIC MAN",
+      "time": "2:00pm",
+      "venue": "BUELL THEATRE",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+    {
+      "code": "BUELL_2026-02-28_1930_MEREDITH_WILLSONS_THE_MUSIC_MAN",
+      "date": "2026-02-28",
+      "title": "Meredith Willson’s THE MUSIC MAN",
+      "time": "7:30pm",
+      "venue": "BUELL THEATRE",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+
+    {
+      "code": "ELLIE_2026-01-17_1900_PHOENIX_RISING",
+      "date": "2026-01-17",
+      "title": "Phoenix Rising",
+      "time": "7:00pm",
+      "venue": "Ellie Caulkins",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+
+    {
+      "code": "ELLIE_2026-01-30_1930_THE_GREAT_GATSBY",
+      "date": "2026-01-30",
+      "title": "The Great Gatsby",
+      "time": "7:30pm",
+      "venue": "Ellie Caulkins",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+    {
+      "code": "ELLIE_2026-01-31_1400_THE_GREAT_GATSBY",
+      "date": "2026-01-31",
+      "title": "The Great Gatsby",
+      "time": "2:00pm",
+      "venue": "Ellie Caulkins",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+    {
+      "code": "ELLIE_2026-01-31_1930_THE_GREAT_GATSBY",
+      "date": "2026-01-31",
+      "title": "The Great Gatsby",
+      "time": "7:30pm",
+      "venue": "Ellie Caulkins",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+    {
+      "code": "ELLIE_2026-02-01_1400_THE_GREAT_GATSBY",
+      "date": "2026-02-01",
+      "title": "The Great Gatsby",
+      "time": "2:00pm",
+      "venue": "Ellie Caulkins",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+    {
+      "code": "ELLIE_2026-02-06_1930_THE_GREAT_GATSBY",
+      "date": "2026-02-06",
+      "title": "The Great Gatsby",
+      "time": "7:30pm",
+      "venue": "Ellie Caulkins",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+    {
+      "code": "ELLIE_2026-02-07_1400_THE_GREAT_GATSBY",
+      "date": "2026-02-07",
+      "title": "The Great Gatsby",
+      "time": "2:00pm",
+      "venue": "Ellie Caulkins",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+    {
+      "code": "ELLIE_2026-02-07_1930_THE_GREAT_GATSBY",
+      "date": "2026-02-07",
+      "title": "The Great Gatsby",
+      "time": "7:30pm",
+      "venue": "Ellie Caulkins",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+    {
+      "code": "ELLIE_2026-02-08_1400_THE_GREAT_GATSBY",
+      "date": "2026-02-08",
+      "title": "The Great Gatsby",
+      "time": "2:00pm",
+      "venue": "Ellie Caulkins",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+
+    {
+      "code": "ELLIE_2026-02-21_2000_GREGORY_PORTER",
+      "date": "2026-02-21",
+      "title": "Gregory Porter",
+      "time": "8:00pm",
+      "venue": "Ellie Caulkins",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+
+    {
+      "code": "BOETTCHER_2026-01-03_1930_DOLLY_PARTONS_THREADS_MY_SONGS_IN_SYMPHONY",
+      "date": "2026-01-03",
+      "title": "Dolly Parton's Threads: My Songs in Symphony",
+      "time": "7:30pm",
+      "venue": "Boettcher Hall",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+    {
+      "code": "BOETTCHER_2026-01-04_1430_DOLLY_PARTONS_THREADS_MY_SONGS_IN_SYMPHONY",
+      "date": "2026-01-04",
+      "title": "Dolly Parton's Threads: My Songs in Symphony",
+      "time": "2:30pm",
+      "venue": "Boettcher Hall",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+
+    {
+      "code": "BOETTCHER_2026-01-09_1930_RACHMANINOFF_RHAPSODY_ON_A_THEME_OF_PAGANINI",
+      "date": "2026-01-09",
+      "title": "Rachmaninoff Rhapsody on a Theme of Paganini",
+      "time": "7:30pm",
+      "venue": "Boettcher Hall",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+    {
+      "code": "BOETTCHER_2026-01-10_1930_RACHMANINOFF_RHAPSODY_ON_A_THEME_OF_PAGANINI",
+      "date": "2026-01-10",
+      "title": "Rachmaninoff Rhapsody on a Theme of Paganini",
+      "time": "7:30pm",
+      "venue": "Boettcher Hall",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+    {
+      "code": "BOETTCHER_2026-01-11_1300_RACHMANINOFF_RHAPSODY_ON_A_THEME_OF_PAGANINI",
+      "date": "2026-01-11",
+      "title": "Rachmaninoff Rhapsody on a Theme of Paganini",
+      "time": "1:00pm",
+      "venue": "Boettcher Hall",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+
+    {
+      "code": "BOETTCHER_2026-01-13_1930_MARTIN_LUTHER_KING_JR_TRIBUTE_AND_HUMANITARIAN_AWARDS",
+      "date": "2026-01-13",
+      "title": "Martin Luther King, Jr. Tribute and Humanitarian Awards",
+      "time": "7:30pm",
+      "venue": "Boettcher Hall",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+
+    {
+      "code": "BOETTCHER_2026-01-16_1900_HARRY_POTTER_AND_THE_GOBLET_OF_FIRE_IN_CONCERT",
+      "date": "2026-01-16",
+      "title": "Harry Potter and the Goblet of Fire™ in Concert",
+      "time": "7:00pm",
+      "venue": "Boettcher Hall",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+    {
+      "code": "BOETTCHER_2026-01-17_1900_HARRY_POTTER_AND_THE_GOBLET_OF_FIRE_IN_CONCERT",
+      "date": "2026-01-17",
+      "title": "Harry Potter and the Goblet of Fire™ in Concert",
+      "time": "7:00pm",
+      "venue": "Boettcher Hall",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+    {
+      "code": "BOETTCHER_2026-01-18_1300_HARRY_POTTER_AND_THE_GOBLET_OF_FIRE_IN_CONCERT",
+      "date": "2026-01-18",
+      "title": "Harry Potter and the Goblet of Fire™ in Concert",
+      "time": "1:00pm",
+      "venue": "Boettcher Hall",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+
+    {
+      "code": "BOETTCHER_2026-01-23_1930_MOZART_AND_NOW_WITH_PETER_OUNDJIAN",
+      "date": "2026-01-23",
+      "title": "Mozart & Now with Peter Oundjian",
+      "time": "7:30pm",
+      "venue": "Boettcher Hall",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+    {
+      "code": "BOETTCHER_2026-01-24_1930_MOZART_AND_NOW_WITH_PETER_OUNDJIAN",
+      "date": "2026-01-24",
+      "title": "Mozart & Now with Peter Oundjian",
+      "time": "7:30pm",
+      "venue": "Boettcher Hall",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+    {
+      "code": "BOETTCHER_2026-01-25_1300_MOZART_AND_NOW_WITH_PETER_OUNDJIAN",
+      "date": "2026-01-25",
+      "title": "Mozart & Now with Peter Oundjian",
+      "time": "1:00pm",
+      "venue": "Boettcher Hall",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+
+    {
+      "code": "BOETTCHER_2026-01-27_1900_NEW_YORK_CITY_TOUR_SENDOFF_CONCERT",
+      "date": "2026-01-27",
+      "title": "New York City Tour Sendoff Concert",
+      "time": "7:00pm",
+      "venue": "Boettcher Hall",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+    {
+      "code": "BOETTCHER_2026-01-31_1930_THE_PHILIP_GLASS_ENSEMBLE_PERFORMING_KOYAANISQATSI",
+      "date": "2026-01-31",
+      "title": "The Philip Glass Ensemble Performing Koyaanisqatsi",
+      "time": "7:30pm",
+      "venue": "Boettcher Hall",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+
+    {
+      "code": "BOETTCHER_2026-02-06_1930_TCHAIKOVSKYS_SIXTH_PATHETIQUE_SHOSTAKOVICH_CELLO_CONCERTO_NO_1",
+      "date": "2026-02-06",
+      "title": "Tchaikovsky's Sixth “Pathétique” + Shostakovich Cello Concerto No. 1",
+      "time": "7:30pm",
+      "venue": "Boettcher Hall",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+    {
+      "code": "BOETTCHER_2026-02-07_1930_TCHAIKOVSKYS_SIXTH_PATHETIQUE_SHOSTAKOVICH_CELLO_CONCERTO_NO_2",
+      "date": "2026-02-07",
+      "title": "Tchaikovsky's Sixth “Pathétique” + Shostakovich Cello Concerto No. 2",
+      "time": "7:30pm",
+      "venue": "Boettcher Hall",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+    {
+      "code": "BOETTCHER_2026-02-08_1300_TCHAIKOVSKYS_SIXTH_PATHETIQUE_SHOSTAKOVICH_CELLO_CONCERTO_NO_3",
+      "date": "2026-02-08",
+      "title": "Tchaikovsky's Sixth “Pathétique” + Shostakovich Cello Concerto No. 3",
+      "time": "1:00pm",
+      "venue": "Boettcher Hall",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+
+    {
+      "code": "BOETTCHER_2026-02-13_1930_VALENTINES_DAY_WITH_PINK_MARTINI",
+      "date": "2026-02-13",
+      "title": "Valentine's Day with Pink Martini",
+      "time": "7:30pm",
+      "venue": "Boettcher Hall",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+    {
+      "code": "BOETTCHER_2026-02-14_1930_VALENTINES_DAY_WITH_PINK_MARTINI",
+      "date": "2026-02-14",
+      "title": "Valentine's Day with Pink Martini",
+      "time": "7:30pm",
+      "venue": "Boettcher Hall",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+
+    {
+      "code": "BOETTCHER_2026-02-20_1930_SHOSTAKOVICH_PIANO_CONCERTO_NO_1_WITH_OLGA_KERN_RACHMANINOFFS_SECOND",
+      "date": "2026-02-20",
+      "title": "Shostakovich Piano Concerto No. 1 with Olga Kern + Rachmaninoff's Second",
+      "time": "7:30pm",
+      "venue": "Boettcher Hall",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+    {
+      "code": "BOETTCHER_2026-02-21_1930_SHOSTAKOVICH_PIANO_CONCERTO_NO_1_WITH_OLGA_KERN_RACHMANINOFFS_SECOND",
+      "date": "2026-02-21",
+      "title": "Shostakovich Piano Concerto No. 1 with Olga Kern + Rachmaninoff's Second",
+      "time": "7:30pm",
+      "venue": "Boettcher Hall",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+    {
+      "code": "BOETTCHER_2026-02-22_1300_SHOSTAKOVICH_PIANO_CONCERTO_NO_1_WITH_OLGA_KERN_RACHMANINOFFS_SECOND",
+      "date": "2026-02-22",
+      "title": "Shostakovich Piano Concerto No. 1 with Olga Kern + Rachmaninoff's Second",
+      "time": "1:00pm",
+      "venue": "Boettcher Hall",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+
+    {
+      "code": "BOETTCHER_2026-02-26_1930_AN_EVENING_WITH_SUTTON_FOSTER_AND_KELLI_OHARA",
+      "date": "2026-02-26",
+      "title": "An Evening with Sutton Foster and Kelli O'Hara",
+      "time": "7:30pm",
+      "venue": "Boettcher Hall",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+
+    {
+      "code": "BOETTCHER_2026-02-28_1930_BRUCE_HORNSBY_WITH_THE_COLORADO_SYMPHONY",
+      "date": "2026-02-28",
+      "title": "Bruce Hornsby with the Colorado Symphony",
+      "time": "7:30pm",
+      "venue": "Boettcher Hall",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+
+    {
+      "code": "BELLCO_2026-01-08_1930_COLORADO_SPEAKER_SERIES_ADAM_KINZINGER",
+      "date": "2026-01-08",
+      "title": "Colorado Speaker Series: Adam Kinzinger",
+      "time": "7:30pm",
+      "venue": "BELLCO",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+    {
+      "code": "BELLCO_2026-01-31_1000_PAW_PATROL_A_MIGHTY_ADVENTURE",
+      "date": "2026-01-31",
+      "title": "Paw Patrol: A Mighty Adventure",
+      "time": "10:00am",
+      "venue": "BELLCO",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+    {
+      "code": "BELLCO_2026-01-31_1400_PAW_PATROL_A_MIGHTY_ADVENTURE",
+      "date": "2026-01-31",
+      "title": "Paw Patrol: A Mighty Adventure",
+      "time": "2:00pm",
+      "venue": "BELLCO",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+    {
+      "code": "BELLCO_2026-02-01_1100_PAW_PATROL_A_MIGHTY_ADVENTURE",
+      "date": "2026-02-01",
+      "title": "Paw Patrol: A Mighty Adventure",
+      "time": "11:00am",
+      "venue": "BELLCO",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+    {
+      "code": "BELLCO_2026-02-01_1500_PAW_PATROL_A_MIGHTY_ADVENTURE",
+      "date": "2026-02-01",
+      "title": "Paw Patrol: A Mighty Adventure",
+      "time": "3:00pm",
+      "venue": "BELLCO",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+    {
+      "code": "BELLCO_2026-02-05_1930_PLATON",
+      "date": "2026-02-05",
+      "title": "Platon",
+      "time": "7:30pm",
+      "venue": "BELLCO",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+
+    {
+      "code": "BUELL_2026-03-01_1300_MEREDITH_WILLSONS_THE_MUSIC_MAN",
+      "date": "2026-03-01",
+      "title": "Meredith Willson’s THE MUSIC MAN",
+      "time": "1:00pm",
+      "venue": "Buell Theatre",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+    {
+      "code": "BUELL_2026-03-01_1800_MEREDITH_WILLSONS_THE_MUSIC_MAN",
+      "date": "2026-03-01",
+      "title": "Meredith Willson’s THE MUSIC MAN",
+      "time": "6:00pm",
+      "venue": "Buell Theatre",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+
+    {
+      "code": "BUELL_2026-03-18_1930_THE_PHANTOM_OF_THE_OPERA",
+      "date": "2026-03-18",
+      "title": "The Phantom of the Opera",
+      "time": "7:30pm",
+      "venue": "Buell Theatre",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+    {
+      "code": "BUELL_2026-03-19_1400_THE_PHANTOM_OF_THE_OPERA",
+      "date": "2026-03-19",
+      "title": "The Phantom of the Opera",
+      "time": "2:00pm",
+      "venue": "Buell Theatre",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+    {
+      "code": "BUELL_2026-03-19_1930_THE_PHANTOM_OF_THE_OPERA",
+      "date": "2026-03-19",
+      "title": "The Phantom of the Opera",
+      "time": "7:30pm",
+      "venue": "Buell Theatre",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+    {
+      "code": "BUELL_2026-03-20_1930_THE_PHANTOM_OF_THE_OPERA",
+      "date": "2026-03-20",
+      "title": "The Phantom of the Opera",
+      "time": "7:30pm",
+      "venue": "Buell Theatre",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+    {
+      "code": "BUELL_2026-03-21_1400_THE_PHANTOM_OF_THE_OPERA",
+      "date": "2026-03-21",
+      "title": "The Phantom of the Opera",
+      "time": "2:00pm",
+      "venue": "Buell Theatre",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+    {
+      "code": "BUELL_2026-03-21_1930_THE_PHANTOM_OF_THE_OPERA",
+      "date": "2026-03-21",
+      "title": "The Phantom of the Opera",
+      "time": "7:30pm",
+      "venue": "Buell Theatre",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+    {
+      "code": "BUELL_2026-03-22_1300_THE_PHANTOM_OF_THE_OPERA",
+      "date": "2026-03-22",
+      "title": "The Phantom of the Opera",
+      "time": "1:00pm",
+      "venue": "Buell Theatre",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+    {
+      "code": "BUELL_2026-03-22_1830_THE_PHANTOM_OF_THE_OPERA",
+      "date": "2026-03-22",
+      "title": "The Phantom of the Opera",
+      "time": "6:30pm",
+      "venue": "Buell Theatre",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+    {
+      "code": "BUELL_2026-03-24_1930_THE_PHANTOM_OF_THE_OPERA",
+      "date": "2026-03-24",
+      "title": "The Phantom of the Opera",
+      "time": "7:30pm",
+      "venue": "Buell Theatre",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+    {
+      "code": "BUELL_2026-03-25_1930_THE_PHANTOM_OF_THE_OPERA",
+      "date": "2026-03-25",
+      "title": "The Phantom of the Opera",
+      "time": "7:30pm",
+      "venue": "Buell Theatre",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+    {
+      "code": "BUELL_2026-03-26_1930_THE_PHANTOM_OF_THE_OPERA",
+      "date": "2026-03-26",
+      "title": "The Phantom of the Opera",
+      "time": "7:30pm",
+      "venue": "Buell Theatre",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+    {
+      "code": "BUELL_2026-03-27_1930_THE_PHANTOM_OF_THE_OPERA",
+      "date": "2026-03-27",
+      "title": "The Phantom of the Opera",
+      "time": "7:30pm",
+      "venue": "Buell Theatre",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+    {
+      "code": "BUELL_2026-03-28_1400_THE_PHANTOM_OF_THE_OPERA",
+      "date": "2026-03-28",
+      "title": "The Phantom of the Opera",
+      "time": "2:00pm",
+      "venue": "Buell Theatre",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+    {
+      "code": "BUELL_2026-03-28_1930_THE_PHANTOM_OF_THE_OPERA",
+      "date": "2026-03-28",
+      "title": "The Phantom of the Opera",
+      "time": "7:30pm",
+      "venue": "Buell Theatre",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+    {
+      "code": "BUELL_2026-03-29_1300_THE_PHANTOM_OF_THE_OPERA",
+      "date": "2026-03-29",
+      "title": "The Phantom of the Opera",
+      "time": "1:00pm",
+      "venue": "Buell Theatre",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+    {
+      "code": "BUELL_2026-03-29_1830_THE_PHANTOM_OF_THE_OPERA",
+      "date": "2026-03-29",
+      "title": "The Phantom of the Opera",
+      "time": "6:30pm",
+      "venue": "Buell Theatre",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+    {
+      "code": "BUELL_2026-03-31_1930_THE_PHANTOM_OF_THE_OPERA",
+      "date": "2026-03-31",
+      "title": "The Phantom of the Opera",
+      "time": "7:30pm",
+      "venue": "Buell Theatre",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+
+    {
+      "code": "BUELL_2026-04-01_1930_THE_PHANTOM_OF_THE_OPERA",
+      "date": "2026-04-01",
+      "title": "The Phantom of the Opera",
+      "time": "7:30pm",
+      "venue": "Buell Theatre",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+    {
+      "code": "BUELL_2026-04-02_1930_THE_PHANTOM_OF_THE_OPERA",
+      "date": "2026-04-02",
+      "title": "The Phantom of the Opera",
+      "time": "7:30pm",
+      "venue": "Buell Theatre",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+    {
+      "code": "BUELL_2026-04-03_1930_THE_PHANTOM_OF_THE_OPERA",
+      "date": "2026-04-03",
+      "title": "The Phantom of the Opera",
+      "time": "7:30pm",
+      "venue": "Buell Theatre",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+    {
+      "code": "BUELL_2026-04-04_1400_THE_PHANTOM_OF_THE_OPERA",
+      "date": "2026-04-04",
+      "title": "The Phantom of the Opera",
+      "time": "2:00pm",
+      "venue": "Buell Theatre",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+    {
+      "code": "BUELL_2026-04-04_1930_THE_PHANTOM_OF_THE_OPERA",
+      "date": "2026-04-04",
+      "title": "The Phantom of the Opera",
+      "time": "7:30pm",
+      "venue": "Buell Theatre",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+    {
+      "code": "BUELL_2026-04-05_1300_THE_PHANTOM_OF_THE_OPERA",
+      "date": "2026-04-05",
+      "title": "The Phantom of the Opera",
+      "time": "1:00pm",
+      "venue": "Buell Theatre",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+    {
+      "code": "BUELL_2026-04-05_1830_THE_PHANTOM_OF_THE_OPERA",
+      "date": "2026-04-05",
+      "title": "The Phantom of the Opera",
+      "time": "6:30pm",
+      "venue": "Buell Theatre",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+
+    {
+      "code": "BUELL_2026-04-08_1400_SHEN_YUN",
+      "date": "2026-04-08",
+      "title": "Shen Yun",
+      "time": "2:00pm",
+      "venue": "Buell Theatre",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+    {
+      "code": "BUELL_2026-04-09_1900_SHEN_YUN",
+      "date": "2026-04-09",
+      "title": "Shen Yun",
+      "time": "7:00pm",
+      "venue": "Buell Theatre",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+    {
+      "code": "BUELL_2026-04-10_1900_SHEN_YUN",
+      "date": "2026-04-10",
+      "title": "Shen Yun",
+      "time": "7:00pm",
+      "venue": "Buell Theatre",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+    {
+      "code": "BUELL_2026-04-11_1400_SHEN_YUN",
+      "date": "2026-04-11",
+      "title": "Shen Yun",
+      "time": "2:00pm",
+      "venue": "Buell Theatre",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+    {
+      "code": "BUELL_2026-04-12_1400_SHEN_YUN",
+      "date": "2026-04-12",
+      "title": "Shen Yun",
+      "time": "2:00pm",
+      "venue": "Buell Theatre",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+
+    {
+      "code": "BUELL_2026-04-14_1930_HELLS_KITCHEN",
+      "date": "2026-04-14",
+      "title": "HELL’S KITCHEN",
+      "time": "7:30pm",
+      "venue": "Buell Theatre",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+    {
+      "code": "BUELL_2026-04-15_1930_HELLS_KITCHEN",
+      "date": "2026-04-15",
+      "title": "HELL’S KITCHEN",
+      "time": "7:30pm",
+      "venue": "Buell Theatre",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+    {
+      "code": "BUELL_2026-04-16_1930_HELLS_KITCHEN",
+      "date": "2026-04-16",
+      "title": "HELL’S KITCHEN",
+      "time": "7:30pm",
+      "venue": "Buell Theatre",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+    {
+      "code": "BUELL_2026-04-17_1930_HELLS_KITCHEN",
+      "date": "2026-04-17",
+      "title": "HELL’S KITCHEN",
+      "time": "7:30pm",
+      "venue": "Buell Theatre",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+    {
+      "code": "BUELL_2026-04-18_1400_HELLS_KITCHEN",
+      "date": "2026-04-18",
+      "title": "HELL’S KITCHEN",
+      "time": "2:00pm",
+      "venue": "Buell Theatre",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+    {
+      "code": "BUELL_2026-04-18_1930_HELLS_KITCHEN",
+      "date": "2026-04-18",
+      "title": "HELL’S KITCHEN",
+      "time": "7:30pm",
+      "venue": "Buell Theatre",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+    {
+      "code": "BUELL_2026-04-19_1300_HELLS_KITCHEN",
+      "date": "2026-04-19",
+      "title": "HELL’S KITCHEN",
+      "time": "1:00pm",
+      "venue": "Buell Theatre",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+    {
+      "code": "BUELL_2026-04-19_1830_HELLS_KITCHEN",
+      "date": "2026-04-19",
+      "title": "HELL’S KITCHEN",
+      "time": "6:30pm",
+      "venue": "Buell Theatre",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+    {
+      "code": "BUELL_2026-04-21_1930_HELLS_KITCHEN",
+      "date": "2026-04-21",
+      "title": "HELL’S KITCHEN",
+      "time": "7:30pm",
+      "venue": "Buell Theatre",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+    {
+      "code": "BUELL_2026-04-22_1930_HELLS_KITCHEN",
+      "date": "2026-04-22",
+      "title": "HELL’S KITCHEN",
+      "time": "7:30pm",
+      "venue": "Buell Theatre",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+    {
+      "code": "BUELL_2026-04-23_1400_HELLS_KITCHEN",
+      "date": "2026-04-23",
+      "title": "HELL’S KITCHEN",
+      "time": "2:00pm",
+      "venue": "Buell Theatre",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+    {
+      "code": "BUELL_2026-04-23_1930_HELLS_KITCHEN",
+      "date": "2026-04-23",
+      "title": "HELL’S KITCHEN",
+      "time": "7:30pm",
+      "venue": "Buell Theatre",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+    {
+      "code": "BUELL_2026-04-24_1930_HELLS_KITCHEN",
+      "date": "2026-04-24",
+      "title": "HELL’S KITCHEN",
+      "time": "7:30pm",
+      "venue": "Buell Theatre",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+    {
+      "code": "BUELL_2026-04-25_1400_HELLS_KITCHEN",
+      "date": "2026-04-25",
+      "title": "HELL’S KITCHEN",
+      "time": "2:00pm",
+      "venue": "Buell Theatre",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+    {
+      "code": "BUELL_2026-04-25_1930_HELLS_KITCHEN",
+      "date": "2026-04-25",
+      "title": "HELL’S KITCHEN",
+      "time": "7:30pm",
+      "venue": "Buell Theatre",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+    {
+      "code": "BUELL_2026-04-26_1300_HELLS_KITCHEN",
+      "date": "2026-04-26",
+      "title": "HELL’S KITCHEN",
+      "time": "1:00pm",
+      "venue": "Buell Theatre",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+
+    {
+      "code": "ELLIE_2026-03-06_1930_A_MIDSUMMER_NIGHTS_DREAM",
+      "date": "2026-03-06",
+      "title": "A Midsummer Night’s Dream",
+      "time": "7:30pm",
+      "venue": "Ellie Caulkins",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+    {
+      "code": "ELLIE_2026-03-07_1400_A_MIDSUMMER_NIGHTS_DREAM",
+      "date": "2026-03-07",
+      "title": "A Midsummer Night’s Dream",
+      "time": "2:00pm",
+      "venue": "Ellie Caulkins",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+    {
+      "code": "ELLIE_2026-03-07_1930_A_MIDSUMMER_NIGHTS_DREAM",
+      "date": "2026-03-07",
+      "title": "A Midsummer Night’s Dream",
+      "time": "7:30pm",
+      "venue": "Ellie Caulkins",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+    {
+      "code": "ELLIE_2026-03-08_1400_A_MIDSUMMER_NIGHTS_DREAM",
+      "date": "2026-03-08",
+      "title": "A Midsummer Night’s Dream",
+      "time": "2:00pm",
+      "venue": "Ellie Caulkins",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+    {
+      "code": "ELLIE_2026-03-14_1400_A_MIDSUMMER_NIGHTS_DREAM",
+      "date": "2026-03-14",
+      "title": "A Midsummer Night’s Dream",
+      "time": "2:00pm",
+      "venue": "Ellie Caulkins",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+    {
+      "code": "ELLIE_2026-03-14_1930_A_MIDSUMMER_NIGHTS_DREAM",
+      "date": "2026-03-14",
+      "title": "A Midsummer Night’s Dream",
+      "time": "7:30pm",
+      "venue": "Ellie Caulkins",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+    {
+      "code": "ELLIE_2026-03-15_1400_A_MIDSUMMER_NIGHTS_DREAM",
+      "date": "2026-03-15",
+      "title": "A Midsummer Night’s Dream",
+      "time": "2:00pm",
+      "venue": "Ellie Caulkins",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+
+    {
+      "code": "ELLIE_2026-04-10_1930_MASTERWORKS",
+      "date": "2026-04-10",
+      "title": "MasterWorks",
+      "time": "7:30pm",
+      "venue": "Ellie Caulkins",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+    {
+      "code": "ELLIE_2026-04-11_1400_MASTERWORKS",
+      "date": "2026-04-11",
+      "title": "MasterWorks",
+      "time": "2:00pm",
+      "venue": "Ellie Caulkins",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+    {
+      "code": "ELLIE_2026-04-11_1930_MASTERWORKS",
+      "date": "2026-04-11",
+      "title": "MasterWorks",
+      "time": "7:30pm",
+      "venue": "Ellie Caulkins",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+    {
+      "code": "ELLIE_2026-04-12_1400_MASTERWORKS",
+      "date": "2026-04-12",
+      "title": "MasterWorks",
+      "time": "2:00pm",
+      "venue": "Ellie Caulkins",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+    {
+      "code": "ELLIE_2026-04-17_1930_MASTERWORKS",
+      "date": "2026-04-17",
+      "title": "MasterWorks",
+      "time": "7:30pm",
+      "venue": "Ellie Caulkins",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+    {
+      "code": "ELLIE_2026-04-18_1930_MASTERWORKS",
+      "date": "2026-04-18",
+      "title": "MasterWorks",
+      "time": "7:30pm",
+      "venue": "Ellie Caulkins",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+    {
+      "code": "ELLIE_2026-04-19_1400_MASTERWORKS",
+      "date": "2026-04-19",
+      "title": "MasterWorks",
+      "time": "2:00pm",
+      "venue": "Ellie Caulkins",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+
+    {
+      "code": "BOETTCHER_2026-03-01_1300_PEPPA_PIG_MY_FIRST_CONCERT",
+      "date": "2026-03-01",
+      "title": "Peppa Pig: My First Concert",
+      "time": "1:00pm",
+      "venue": "Boettcher Hall",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+    {
+      "code": "BOETTCHER_2026-03-01_1600_PEPPA_PIG_MY_FIRST_CONCERT",
+      "date": "2026-03-01",
+      "title": "Peppa Pig: My First Concert",
+      "time": "4:00pm",
+      "venue": "Boettcher Hall",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+
+    {
+      "code": "BOETTCHER_2026-03-06_1930_BEETHOVENS_THIRD_EROICA_MARKUS_STENZ_JAMES_EHNES",
+      "date": "2026-03-06",
+      "title": "Beethoven’s Third \"Eroica\" (Markus Stenz + James Ehnes)",
+      "time": "7:30pm",
+      "venue": "Boettcher Hall",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+    {
+      "code": "BOETTCHER_2026-03-07_1930_BEETHOVENS_THIRD_EROICA_MARKUS_STENZ_JAMES_EHNES",
+      "date": "2026-03-07",
+      "title": "Beethoven’s Third \"Eroica\" (Markus Stenz + James Ehnes)",
+      "time": "7:30pm",
+      "venue": "Boettcher Hall",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+    {
+      "code": "BOETTCHER_2026-03-08_2000_BEETHOVENS_THIRD_EROICA_MARKUS_STENZ_JAMES_EHNES",
+      "date": "2026-03-08",
+      "title": "Beethoven’s Third \"Eroica\" (Markus Stenz + James Ehnes)",
+      "time": "8:00pm",
+      "venue": "Boettcher Hall",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+
+    {
+      "code": "BOETTCHER_2026-03-11_1930_DYAO_SIDE_BY_SIDE",
+      "date": "2026-03-11",
+      "title": "DYAO Side-by-Side",
+      "time": "7:30pm",
+      "venue": "Boettcher Hall",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+    {
+      "code": "BOETTCHER_2026-03-14_1930_LANG_LANG_WITH_THE_COLORADO_SYMPHONY",
+      "date": "2026-03-14",
+      "title": "Lang Lang with the Colorado Symphony",
+      "time": "7:30pm",
+      "venue": "Boettcher Hall",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+    {
+      "code": "BOETTCHER_2026-03-15_1430_DRUMS_OF_THE_WORLD",
+      "date": "2026-03-15",
+      "title": "Drums of the World",
+      "time": "2:30pm",
+      "venue": "Boettcher Hall",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+
+    {
+      "code": "BOETTCHER_2026-03-20_1930_PROKOFIEV_ROMEO_AND_JULIET_PETER_OUNDJIAN_YUMI_HWANG_WILLIAMS",
+      "date": "2026-03-20",
+      "title": "Prokofiev Romeo and Juliet (Peter Oundjian + Yumi Hwang-Williams)",
+      "time": "7:30pm",
+      "venue": "Boettcher Hall",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+    {
+      "code": "BOETTCHER_2026-03-21_1930_PROKOFIEV_ROMEO_AND_JULIET_PETER_OUNDJIAN_YUMI_HWANG_WILLIAMS",
+      "date": "2026-03-21",
+      "title": "Prokofiev Romeo and Juliet (Peter Oundjian + Yumi Hwang-Williams)",
+      "time": "7:30pm",
+      "venue": "Boettcher Hall",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+    {
+      "code": "BOETTCHER_2026-03-22_1300_PROKOFIEV_ROMEO_AND_JULIET_PETER_OUNDJIAN_YUMI_HWANG_WILLIAMS",
+      "date": "2026-03-22",
+      "title": "Prokofiev Romeo and Juliet (Peter Oundjian + Yumi Hwang-Williams)",
+      "time": "1:00pm",
+      "venue": "Boettcher Hall",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+
+    {
+      "code": "BOETTCHER_2026-04-10_1930_MARIN_ALSOP_CONDUCTS_RIMSKY_KORSAKOV_GABRIELA_MONTERO",
+      "date": "2026-04-10",
+      "title": "Marin Alsop Conducts Rimsky-Korsakov + Gabriela Montero",
+      "time": "7:30pm",
+      "venue": "Boettcher Hall",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+    {
+      "code": "BOETTCHER_2026-04-11_1930_MARIN_ALSOP_CONDUCTS_RIMSKY_KORSAKOV_GABRIELA_MONTERO",
+      "date": "2026-04-11",
+      "title": "Marin Alsop Conducts Rimsky-Korsakov + Gabriela Montero",
+      "time": "7:30pm",
+      "venue": "Boettcher Hall",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+    {
+      "code": "BOETTCHER_2026-04-12_1300_MARIN_ALSOP_CONDUCTS_RIMSKY_KORSAKOV_GABRIELA_MONTERO",
+      "date": "2026-04-12",
+      "title": "Marin Alsop Conducts Rimsky-Korsakov + Gabriela Montero",
+      "time": "1:00pm",
+      "venue": "Boettcher Hall",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+
+    {
+      "code": "BOETTCHER_2026-04-18_1930_WAR_AND_PEACE_HAYDN_VAUGHAN_WILLIAMS_AND_MAZZOLI",
+      "date": "2026-04-18",
+      "title": "War and Peace: Haydn, Vaughan Williams, and Mazzoli",
+      "time": "7:30pm",
+      "venue": "Boettcher Hall",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+    {
+      "code": "BOETTCHER_2026-04-19_1300_WAR_AND_PEACE_HAYDN_VAUGHAN_WILLIAMS_AND_MAZZOLI",
+      "date": "2026-04-19",
+      "title": "War and Peace: Haydn, Vaughan Williams, and Mazzoli",
+      "time": "1:00pm",
+      "venue": "Boettcher Hall",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+
+    {
+      "code": "BOETTCHER_2026-04-24_1930_GERSHWIN_RHAPSODY_IN_BLUE_PETER_OUNDJIAN_MICHELLE_CANN",
+      "date": "2026-04-24",
+      "title": "Gershwin Rhapsody in Blue (Peter Oundjian & Michelle Cann)",
+      "time": "7:30pm",
+      "venue": "Boettcher Hall",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+    {
+      "code": "BOETTCHER_2026-04-25_1300_COLORADO_CHILDRENS_CHORALE_PRESENTS_FREE_TO_BE_ALL_OF_ME",
+      "date": "2026-04-25",
+      "title": "Colorado Children's Chorale Presents Free to Be All of Me",
+      "time": "1:00pm",
+      "venue": "Boettcher Hall",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+    {
+      "code": "BOETTCHER_2026-04-25_1930_GERSHWIN_RHAPSODY_IN_BLUE_PETER_OUNDJIAN_MICHELLE_CANN",
+      "date": "2026-04-25",
+      "title": "Gershwin Rhapsody in Blue (Peter Oundjian & Michelle Cann)",
+      "time": "7:30pm",
+      "venue": "Boettcher Hall",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+    {
+      "code": "BOETTCHER_2026-04-26_1300_GERSHWIN_RHAPSODY_IN_BLUE_PETER_OUNDJIAN_MICHELLE_CANN",
+      "date": "2026-04-26",
+      "title": "Gershwin Rhapsody in Blue (Peter Oundjian & Michelle Cann)",
+      "time": "1:00pm",
+      "venue": "Boettcher Hall",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+
+    {
+      "code": "BELLCO_2026-03-12_1900_JEFF_DUNHAM_ARTIFICIAL_INTELLIGENCE",
+      "date": "2026-03-12",
+      "title": "Jeff Dunham: Artificial Intelligence",
+      "time": "7:00pm",
+      "venue": "Bellco",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+    {
+      "code": "BELLCO_2026-03-21_2000_ATTACK_ON_TITAN_BEYOND_THE_WALLS_WORLD_TOUR",
+      "date": "2026-03-21",
+      "title": "Attack on Titan: Beyond the Walls World Tour - The Official Concert",
+      "time": "8:00pm",
+      "venue": "Bellco",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+    {
+      "code": "BELLCO_2026-04-04_2000_THE_RB_LOVERS_TOUR_FEATURING_KEITH_SWEAT_JOE_AND_DRU_HILL",
+      "date": "2026-04-04",
+      "title": "The R&B Lovers Tour (Featuring Keith Sweat, Joe and Dru Hill)",
+      "time": "8:00pm",
+      "venue": "Bellco",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+    {
+      "code": "BELLCO_2026-04-11_2000_GABOR_MATE",
+      "date": "2026-04-11",
+      "title": "Gabor Maté",
+      "time": "8:00pm",
+      "venue": "Bellco",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+    {
+      "code": "BELLCO_2026-04-12_1900_DANCING_WITH_THE_STARS_LIVE",
+      "date": "2026-04-12",
+      "title": "Dancing With The Stars Live",
+      "time": "7:00pm",
+      "venue": "Bellco",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+    {
+      "code": "BELLCO_2026-04-15_1930_MEL_ROBBINS",
+      "date": "2026-04-15",
+      "title": "Mel Robbins",
+      "time": "7:30pm",
+      "venue": "Bellco",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+
+    {
+      "code": "REDROCKS_2026-02-07_1800_ICELANTICS_WINTER_ON_THE_ROCKS",
+      "date": "2026-02-07",
+      "title": "Icelantic’s Winter on the Rocks (BigXthaPlug, Smino, Mick Jenkins, PawPaw Rod)",
+      "time": "6:00pm",
+      "venue": "Red Rocks",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+    {
+      "code": "REDROCKS_2026-03-27_1900_CRANKDAT",
+      "date": "2026-03-27",
+      "title": "CRANKDAT (Dr. Fresch, Smoakland, Capochino, HerShe)",
+      "time": "7:00pm",
+      "venue": "Red Rocks",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+    {
+      "code": "REDROCKS_2026-03-28_1800_RAVENSCOON_AND_JANTSEN",
+      "date": "2026-03-28",
+      "title": "Ravenscoon & Jantsen (Jason Leech, Noetika, DEV)",
+      "time": "6:00pm",
+      "venue": "Red Rocks",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+    {
+      "code": "REDROCKS_2026-04-03_1800_INZO",
+      "date": "2026-04-03",
+      "title": "INZO (What So Not, Lumasi, Daggz, Common Creation, Spenny)",
+      "time": "6:00pm",
+      "venue": "Red Rocks",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+    {
+      "code": "REDROCKS_2026-04-04_2000_ITS_MURPH_PRESENTS_MURPH_ROCKS",
+      "date": "2026-04-04",
+      "title": "it’s murph presents Murph Rocks (D.O.D, oskar med k, me n ü)",
+      "time": "8:00pm",
+      "venue": "Red Rocks",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+    {
+      "code": "REDROCKS_2026-04-10_1800_ZINGARA_AND_LEVEL_UP",
+      "date": "2026-04-10",
+      "title": "ZINGARA & LEVEL UP (Saka, SubDocta, Slang Dogs)",
+      "time": "6:00pm",
+      "venue": "Red Rocks",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+    {
+      "code": "REDROCKS_2026-04-11_1800_LIQUID_STRANGER",
+      "date": "2026-04-11",
+      "title": "Liquid Stranger (TVBOO b2b AHEE, AVELLO)",
+      "time": "6:00pm",
+      "venue": "Red Rocks",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+    {
+      "code": "REDROCKS_2026-04-15_1930_JOHN_MULANEY_MISTER_WHATEVER",
+      "date": "2026-04-15",
+      "title": "John Mulaney: Mister Whatever",
+      "time": "7:30pm",
+      "venue": "Red Rocks",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+    {
+      "code": "REDROCKS_2026-04-16_1830_BBNO",
+      "date": "2026-04-16",
+      "title": "bbno$ (Oliver Tree; Kaarija, YNG Martyr, Jungle Bobby)",
+      "time": "6:30pm",
+      "venue": "Red Rocks",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+    {
+      "code": "REDROCKS_2026-04-17_1830_SUBLIME",
+      "date": "2026-04-17",
+      "title": "Sublime (Common Kings, Bumpin Uglies)",
+      "time": "6:30pm",
+      "venue": "Red Rocks",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+    {
+      "code": "REDROCKS_2026-04-18_1830_SUBLIME",
+      "date": "2026-04-18",
+      "title": "Sublime (Pepper, Codefendants N2)",
+      "time": "6:30pm",
+      "venue": "Red Rocks",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+    {
+      "code": "REDROCKS_2026-04-19_1730_WIZ_KHALIFA",
+      "date": "2026-04-19",
+      "title": "Wiz Khalifa (2 Chainz, Berner, The Underachievers, Chevy Woods, DJ Bonics)",
+      "time": "5:30pm",
+      "venue": "Red Rocks",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+    {
+      "code": "REDROCKS_2026-04-20_1900_420_ON_THE_ROCKS_ICE_CUBE",
+      "date": "2026-04-20",
+      "title": "420 on the Rocks: Ice Cube (Big Boi; Czarface; Ethel Cain)",
+      "time": "7:00pm",
+      "venue": "Red Rocks",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+    {
+      "code": "REDROCKS_2026-04-21_1900_ETHEL_CAIN",
+      "date": "2026-04-21",
+      "title": "Ethel Cain (9Million)",
+      "time": "7:00pm",
+      "venue": "Red Rocks",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+    {
+      "code": "REDROCKS_2026-04-26_1830_BOB_MOSES_AND_CANNONS",
+      "date": "2026-04-26",
+      "title": "Bob Moses & Cannons",
+      "time": "6:30pm",
+      "venue": "Red Rocks",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+    {
+      "code": "REDROCKS_2026-04-28_1930_LEWIS_CAPALDI",
+      "date": "2026-04-28",
+      "title": "Lewis Capaldi (Joy Crookes)",
+      "time": "7:30pm",
+      "venue": "Red Rocks",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+    {
+      "code": "REDROCKS_2026-04-29_1930_LEWIS_CAPALDI",
+      "date": "2026-04-29",
+      "title": "Lewis Capaldi (Joy Crookes)",
+      "time": "7:30pm",
+      "venue": "Red Rocks",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    },
+    {
+      "code": "REDROCKS_2026-04-30_1900_ELECTRIC_CALLBOY_TANZNEID_WORLD_TOUR",
+      "date": "2026-04-30",
+      "title": "Electric Callboy: Tanzneid World Tour (Polaris, Scene Queen)",
+      "time": "7:00pm",
+      "venue": "Red Rocks",
+      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
+    }
+  ]
+}
