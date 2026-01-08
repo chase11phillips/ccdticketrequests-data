@@ -2,14 +2,6 @@
   "formUrlDefault": "https://forms.office.com/g/JAikrDh0vE",
   "events": [
     {
-      "code": "BUELL_2026-01-08_1400_SIX",
-      "date": "2026-01-08",
-      "title": "SIX",
-      "time": "2:00pm",
-      "venue": "BUELL THEATRE",
-      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
-    },
-    {
       "code": "BUELL_2026-01-16_1930_THE_CHOIR_OF_MAN",
       "date": "2026-01-16",
       "title": "The Choir of Man",
@@ -297,30 +289,6 @@
       "formUrl": "https://forms.office.com/g/JAikrDh0vE"
     },
     {
-      "code": "BOETTCHER_2026-01-03_1930_DOLLY_PARTONS_THREADS_MY_SONGS_IN_SYMPHONY",
-      "date": "2026-01-03",
-      "title": "Dolly Parton's Threads: My Songs in Symphony",
-      "time": "7:30pm",
-      "venue": "Boettcher Hall",
-      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
-    },
-    {
-      "code": "BOETTCHER_2026-01-04_1430_DOLLY_PARTONS_THREADS_MY_SONGS_IN_SYMPHONY",
-      "date": "2026-01-04",
-      "title": "Dolly Parton's Threads: My Songs in Symphony",
-      "time": "2:30pm",
-      "venue": "Boettcher Hall",
-      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
-    },
-    {
-      "code": "BOETTCHER_2026-01-09_1930_RACHMANINOFF_RHAPSODY_ON_A_THEME_OF_PAGANINI",
-      "date": "2026-01-09",
-      "title": "Rachmaninoff Rhapsody on a Theme of Paganini",
-      "time": "7:30pm",
-      "venue": "Boettcher Hall",
-      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
-    },
-    {
       "code": "BOETTCHER_2026-01-10_1930_RACHMANINOFF_RHAPSODY_ON_A_THEME_OF_PAGANINI",
       "date": "2026-01-10",
       "title": "Rachmaninoff Rhapsody on a Theme of Paganini",
@@ -495,15 +463,6 @@
       "title": "Bruce Hornsby with the Colorado Symphony",
       "time": "7:30pm",
       "venue": "Boettcher Hall",
-      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
-    },
-
-    {
-      "code": "BELLCO_2026-01-08_1930_COLORADO_SPEAKER_SERIES_ADAM_KINZINGER",
-      "date": "2026-01-08",
-      "title": "Colorado Speaker Series: Adam Kinzinger",
-      "time": "7:30pm",
-      "venue": "BELLCO",
       "formUrl": "https://forms.office.com/g/JAikrDh0vE"
     },
     {
