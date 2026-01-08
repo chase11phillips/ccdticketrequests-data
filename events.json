@@ -2,14 +2,6 @@
   "formUrlDefault": "https://forms.office.com/g/JAikrDh0vE",
   "events": [
     {
-      "code": "BUELL_2026-01-07_1930_SIX",
-      "date": "2026-01-07",
-      "title": "SIX",
-      "time": "7:30pm",
-      "venue": "BUELL THEATRE",
-      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
-    },
-    {
       "code": "BUELL_2026-01-08_1400_SIX",
       "date": "2026-01-08",
       "title": "SIX",
@@ -17,15 +9,6 @@
       "venue": "BUELL THEATRE",
       "formUrl": "https://forms.office.com/g/JAikrDh0vE"
     },
-    {
-      "code": "BUELL_2026-01-11_1830_SIX",
-      "date": "2026-01-11",
-      "title": "SIX",
-      "time": "6:30pm",
-      "venue": "BUELL THEATRE",
-      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
-    },
-
     {
       "code": "BUELL_2026-01-16_1930_THE_CHOIR_OF_MAN",
       "date": "2026-01-16",
@@ -266,14 +249,6 @@
       "formUrl": "https://forms.office.com/g/JAikrDh0vE"
     },
     {
-      "code": "ELLIE_2026-01-31_1400_THE_GREAT_GATSBY",
-      "date": "2026-01-31",
-      "title": "The Great Gatsby",
-      "time": "2:00pm",
-      "venue": "Ellie Caulkins",
-      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
-    },
-    {
       "code": "ELLIE_2026-01-31_1930_THE_GREAT_GATSBY",
       "date": "2026-01-31",
       "title": "The Great Gatsby",
@@ -321,16 +296,6 @@
       "venue": "Ellie Caulkins",
       "formUrl": "https://forms.office.com/g/JAikrDh0vE"
     },
-
-    {
-      "code": "ELLIE_2026-02-21_2000_GREGORY_PORTER",
-      "date": "2026-02-21",
-      "title": "Gregory Porter",
-      "time": "8:00pm",
-      "venue": "Ellie Caulkins",
-      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
-    },
-
     {
       "code": "BOETTCHER_2026-01-03_1930_DOLLY_PARTONS_THREADS_MY_SONGS_IN_SYMPHONY",
       "date": "2026-01-03",
@@ -347,7 +312,6 @@
       "venue": "Boettcher Hall",
       "formUrl": "https://forms.office.com/g/JAikrDh0vE"
     },
-
     {
       "code": "BOETTCHER_2026-01-09_1930_RACHMANINOFF_RHAPSODY_ON_A_THEME_OF_PAGANINI",
       "date": "2026-01-09",
