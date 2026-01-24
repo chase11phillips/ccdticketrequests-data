@@ -1,31 +1,3 @@
-{
-  "formUrlDefault": "https://forms.office.com/g/JAikrDh0vE",
-  "events": [
-    {
-      "code": "BUELL_2026-01-16_1930_THE_CHOIR_OF_MAN",
-      "date": "2026-01-16",
-      "title": "The Choir of Man",
-      "time": "7:30pm",
-      "venue": "BUELL THEATRE",
-      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
-    },
-    {
-      "code": "BUELL_2026-01-17_1400_THE_CHOIR_OF_MAN",
-      "date": "2026-01-17",
-      "title": "The Choir of Man",
-      "time": "2:00pm",
-      "venue": "BUELL THEATRE",
-      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
-    },
-    {
-      "code": "BUELL_2026-01-17_1930_THE_CHOIR_OF_MAN",
-      "date": "2026-01-17",
-      "title": "The Choir of Man",
-      "time": "7:30pm",
-      "venue": "BUELL THEATRE",
-      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
-    },
-
     {
       "code": "BUELL_2026-01-24_1400_THE_SIMON_AND_GARFUNKEL_STORY",
       "date": "2026-01-24",
@@ -214,15 +186,6 @@
       "venue": "BUELL THEATRE",
       "formUrl": "https://forms.office.com/g/JAikrDh0vE"
     },
-
-    {
-      "code": "ELLIE_2026-01-17_1900_PHOENIX_RISING",
-      "date": "2026-01-17",
-      "title": "Phoenix Rising",
-      "time": "7:00pm",
-      "venue": "Ellie Caulkins",
-      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
-    },
     {
       "code": "ELLIE_2026-01-30_1930_THE_GREAT_GATSBY",
       "date": "2026-01-30",
@@ -277,65 +240,6 @@
       "title": "The Great Gatsby",
       "time": "2:00pm",
       "venue": "Ellie Caulkins",
-      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
-    },
-    {
-      "code": "BOETTCHER_2026-01-10_1930_RACHMANINOFF_RHAPSODY_ON_A_THEME_OF_PAGANINI",
-      "date": "2026-01-10",
-      "title": "Rachmaninoff Rhapsody on a Theme of Paganini",
-      "time": "7:30pm",
-      "venue": "Boettcher Hall",
-      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
-    },
-    {
-      "code": "BOETTCHER_2026-01-11_1300_RACHMANINOFF_RHAPSODY_ON_A_THEME_OF_PAGANINI",
-      "date": "2026-01-11",
-      "title": "Rachmaninoff Rhapsody on a Theme of Paganini",
-      "time": "1:00pm",
-      "venue": "Boettcher Hall",
-      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
-    },
-
-    {
-      "code": "BOETTCHER_2026-01-13_1930_MARTIN_LUTHER_KING_JR_TRIBUTE_AND_HUMANITARIAN_AWARDS",
-      "date": "2026-01-13",
-      "title": "Martin Luther King, Jr. Tribute and Humanitarian Awards",
-      "time": "7:30pm",
-      "venue": "Boettcher Hall",
-      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
-    },
-
-    {
-      "code": "BOETTCHER_2026-01-16_1900_HARRY_POTTER_AND_THE_GOBLET_OF_FIRE_IN_CONCERT",
-      "date": "2026-01-16",
-      "title": "Harry Potter and the Goblet of Fire™ in Concert",
-      "time": "7:00pm",
-      "venue": "Boettcher Hall",
-      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
-    },
-    {
-      "code": "BOETTCHER_2026-01-17_1900_HARRY_POTTER_AND_THE_GOBLET_OF_FIRE_IN_CONCERT",
-      "date": "2026-01-17",
-      "title": "Harry Potter and the Goblet of Fire™ in Concert",
-      "time": "7:00pm",
-      "venue": "Boettcher Hall",
-      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
-    },
-    {
-      "code": "BOETTCHER_2026-01-18_1300_HARRY_POTTER_AND_THE_GOBLET_OF_FIRE_IN_CONCERT",
-      "date": "2026-01-18",
-      "title": "Harry Potter and the Goblet of Fire™ in Concert",
-      "time": "1:00pm",
-      "venue": "Boettcher Hall",
-      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
-    },
-
-    {
-      "code": "BOETTCHER_2026-01-23_1930_MOZART_AND_NOW_WITH_PETER_OUNDJIAN",
-      "date": "2026-01-23",
-      "title": "Mozart & Now with Peter Oundjian",
-      "time": "7:30pm",
-      "venue": "Boettcher Hall",
       "formUrl": "https://forms.office.com/g/JAikrDh0vE"
     },
     {
@@ -1205,15 +1109,6 @@
       "title": "Mel Robbins",
       "time": "7:30pm",
       "venue": "Bellco",
-      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
-    },
-
-    {
-      "code": "REDROCKS_2026-02-07_1800_ICELANTICS_WINTER_ON_THE_ROCKS",
-      "date": "2026-02-07",
-      "title": "Icelantic’s Winter on the Rocks (BigXthaPlug, Smino, Mick Jenkins, PawPaw Rod)",
-      "time": "6:00pm",
-      "venue": "Red Rocks",
       "formUrl": "https://forms.office.com/g/JAikrDh0vE"
     },
     {
