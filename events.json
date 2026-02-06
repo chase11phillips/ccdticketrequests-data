@@ -1,41 +1,7 @@
 {
   "formUrlDefault": "https://forms.office.com/g/JAikrDh0vE",
   "events": [
-    {
-      "code": "BUELL_2026-01-24_1400_THE_SIMON_AND_GARFUNKEL_STORY",
-      "date": "2026-01-24",
-      "title": "The Simon and Garfunkel Story",
-      "time": "2:00pm",
-      "venue": "BUELL THEATRE",
-      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
-    },
-    {
-      "code": "BUELL_2026-01-25_1300_THE_SIMON_AND_GARFUNKEL_STORY",
-      "date": "2026-01-25",
-      "title": "The Simon and Garfunkel Story",
-      "time": "1:00pm",
-      "venue": "BUELL THEATRE",
-      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
-    },
-    {
-      "code": "BUELL_2026-01-31_1900_RICHARD_THOMAS_IN_MARK_TWAIN_TONIGHT",
-      "date": "2026-01-31",
-      "title": "Richard Thomas in Mark Twain Tonight!",
-      "time": "7:00pm",
-      "venue": "BUELL THEATRE",
-      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
-    },
-
-    {
-      "code": "BUELL_2026-02-04_1930_DIRTY_DANCING_IN_CONCERT",
-      "date": "2026-02-04",
-      "title": "DIRTY DANCING IN CONCERT",
-      "time": "7:30pm",
-      "venue": "BUELL THEATRE",
-      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
-    },
-
-    {
+        {
       "code": "BUELL_2026-02-11_1930_WATER_FOR_ELEPHANTS",
       "date": "2026-02-11",
       "title": "Water for Elephants",
@@ -189,38 +155,6 @@
       "formUrl": "https://forms.office.com/g/JAikrDh0vE"
     },
     {
-      "code": "ELLIE_2026-01-30_1930_THE_GREAT_GATSBY",
-      "date": "2026-01-30",
-      "title": "The Great Gatsby",
-      "time": "7:30pm",
-      "venue": "Ellie Caulkins",
-      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
-    },
-    {
-      "code": "ELLIE_2026-01-31_1930_THE_GREAT_GATSBY",
-      "date": "2026-01-31",
-      "title": "The Great Gatsby",
-      "time": "7:30pm",
-      "venue": "Ellie Caulkins",
-      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
-    },
-    {
-      "code": "ELLIE_2026-02-01_1400_THE_GREAT_GATSBY",
-      "date": "2026-02-01",
-      "title": "The Great Gatsby",
-      "time": "2:00pm",
-      "venue": "Ellie Caulkins",
-      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
-    },
-    {
-      "code": "ELLIE_2026-02-06_1930_THE_GREAT_GATSBY",
-      "date": "2026-02-06",
-      "title": "The Great Gatsby",
-      "time": "7:30pm",
-      "venue": "Ellie Caulkins",
-      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
-    },
-    {
       "code": "ELLIE_2026-02-07_1400_THE_GREAT_GATSBY",
       "date": "2026-02-07",
       "title": "The Great Gatsby",
@@ -244,40 +178,6 @@
       "venue": "Ellie Caulkins",
       "formUrl": "https://forms.office.com/g/JAikrDh0vE"
     },
-    {
-      "code": "BOETTCHER_2026-01-24_1930_MOZART_AND_NOW_WITH_PETER_OUNDJIAN",
-      "date": "2026-01-24",
-      "title": "Mozart & Now with Peter Oundjian",
-      "time": "7:30pm",
-      "venue": "Boettcher Hall",
-      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
-    },
-    {
-      "code": "BOETTCHER_2026-01-25_1300_MOZART_AND_NOW_WITH_PETER_OUNDJIAN",
-      "date": "2026-01-25",
-      "title": "Mozart & Now with Peter Oundjian",
-      "time": "1:00pm",
-      "venue": "Boettcher Hall",
-      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
-    },
-
-    {
-      "code": "BOETTCHER_2026-01-27_1900_NEW_YORK_CITY_TOUR_SENDOFF_CONCERT",
-      "date": "2026-01-27",
-      "title": "New York City Tour Sendoff Concert",
-      "time": "7:00pm",
-      "venue": "Boettcher Hall",
-      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
-    },
-    {
-      "code": "BOETTCHER_2026-01-31_1930_THE_PHILIP_GLASS_ENSEMBLE_PERFORMING_KOYAANISQATSI",
-      "date": "2026-01-31",
-      "title": "The Philip Glass Ensemble Performing Koyaanisqatsi",
-      "time": "7:30pm",
-      "venue": "Boettcher Hall",
-      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
-    },
-
     {
       "code": "BOETTCHER_2026-02-06_1930_TCHAIKOVSKYS_SIXTH_PATHETIQUE_SHOSTAKOVICH_CELLO_CONCERTO_NO_1",
       "date": "2026-02-06",
@@ -362,47 +262,6 @@
       "venue": "Boettcher Hall",
       "formUrl": "https://forms.office.com/g/JAikrDh0vE"
     },
-    {
-      "code": "BELLCO_2026-01-31_1000_PAW_PATROL_A_MIGHTY_ADVENTURE",
-      "date": "2026-01-31",
-      "title": "Paw Patrol: A Mighty Adventure",
-      "time": "10:00am",
-      "venue": "BELLCO",
-      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
-    },
-    {
-      "code": "BELLCO_2026-01-31_1400_PAW_PATROL_A_MIGHTY_ADVENTURE",
-      "date": "2026-01-31",
-      "title": "Paw Patrol: A Mighty Adventure",
-      "time": "2:00pm",
-      "venue": "BELLCO",
-      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
-    },
-    {
-      "code": "BELLCO_2026-02-01_1100_PAW_PATROL_A_MIGHTY_ADVENTURE",
-      "date": "2026-02-01",
-      "title": "Paw Patrol: A Mighty Adventure",
-      "time": "11:00am",
-      "venue": "BELLCO",
-      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
-    },
-    {
-      "code": "BELLCO_2026-02-01_1500_PAW_PATROL_A_MIGHTY_ADVENTURE",
-      "date": "2026-02-01",
-      "title": "Paw Patrol: A Mighty Adventure",
-      "time": "3:00pm",
-      "venue": "BELLCO",
-      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
-    },
-    {
-      "code": "BELLCO_2026-02-05_1930_PLATON",
-      "date": "2026-02-05",
-      "title": "Platon",
-      "time": "7:30pm",
-      "venue": "BELLCO",
-      "formUrl": "https://forms.office.com/g/JAikrDh0vE"
-    },
-
     {
       "code": "BUELL_2026-03-01_1300_MEREDITH_WILLSONS_THE_MUSIC_MAN",
       "date": "2026-03-01",
